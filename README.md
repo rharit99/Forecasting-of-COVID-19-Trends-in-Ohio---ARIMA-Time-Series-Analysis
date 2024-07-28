@@ -8,7 +8,6 @@
 
 In the face of the COVID-19 pandemic, this project aims to analyze and predict the course of the virus's spread in Ohio. By leveraging ARIMA (AutoRegressive Integrated Moving Average) models, a sophisticated time series analysis technique, we delve into the pandemic's dynamics within the state.
 
-
 ### Objectives:
 - **Data Preparation**: Compile daily COVID-19 case data for Ohio, ensuring it's clean and analysis-ready.
 - **Time Series Analysis**: Apply ARIMA modeling to discover the best parameter combinations that reflect the data's trends accurately.
